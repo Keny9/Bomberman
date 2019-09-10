@@ -1,0 +1,28 @@
+﻿  Audio.cpp
+  Bomb.cpp
+  Bomberman.cpp
+d:\cegep\hiver2018\programmation structurée\official bomberman\bomber man\bombermanproject\bombermanproject\bomberman.cpp(77): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\cegep\hiver2018\programmation structurée\official bomberman\bomber man\bombermanproject\bombermanproject\bomberman.cpp(78): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\cegep\hiver2018\programmation structurée\official bomberman\bomber man\bombermanproject\bombermanproject\bomberman.cpp(79): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\cegep\hiver2018\programmation structurée\official bomberman\bomber man\bombermanproject\bombermanproject\bomberman.cpp(80): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\cegep\hiver2018\programmation structurée\official bomberman\bomber man\bombermanproject\bombermanproject\bomberman.cpp(103): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\cegep\hiver2018\programmation structurée\official bomberman\bomber man\bombermanproject\bombermanproject\bomberman.cpp(105): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\cegep\hiver2018\programmation structurée\official bomberman\bomber man\bombermanproject\bombermanproject\bomberman.cpp(147): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\cegep\hiver2018\programmation structurée\official bomberman\bomber man\bombermanproject\bombermanproject\bomberman.cpp(148): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\cegep\hiver2018\programmation structurée\official bomberman\bomber man\bombermanproject\bombermanproject\bomberman.cpp(194): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Game.cpp
+d:\cegep\hiver2018\programmation structurée\official bomberman\bomber man\bombermanproject\bombermanproject\game.cpp(42): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+d:\cegep\hiver2018\programmation structurée\official bomberman\bomber man\bombermanproject\bombermanproject\game.cpp(78): warning C4018: '<': signed/unsigned mismatch
+d:\cegep\hiver2018\programmation structurée\official bomberman\bomber man\bombermanproject\bombermanproject\game.cpp(116): warning C4244: 'argument': conversion from 'Uint32' to 'float', possible loss of data
+d:\cegep\hiver2018\programmation structurée\official bomberman\bomber man\bombermanproject\bombermanproject\game.cpp(118): warning C4018: '<': signed/unsigned mismatch
+d:\cegep\hiver2018\programmation structurée\official bomberman\bomber man\bombermanproject\bombermanproject\game.cpp(124): warning C4244: 'argument': conversion from 'Uint32' to 'float', possible loss of data
+  LangueFolle.cpp
+d:\cegep\hiver2018\programmation structurée\official bomberman\bomber man\bombermanproject\bombermanproject\languefolle.cpp(19): warning C4305: '=': truncation from 'double' to 'float'
+d:\cegep\hiver2018\programmation structurée\official bomberman\bomber man\bombermanproject\bombermanproject\languefolle.cpp(20): warning C4305: '=': truncation from 'double' to 'float'
+d:\cegep\hiver2018\programmation structurée\official bomberman\bomber man\bombermanproject\bombermanproject\languefolle.cpp(103): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\cegep\hiver2018\programmation structurée\official bomberman\bomber man\bombermanproject\bombermanproject\languefolle.cpp(104): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Main.cpp
+  Map.cpp
+  Points.cpp
+  Generating Code...
+  BombermanProject.vcxproj -> D:\Cegep\Hiver2018\Programmation Structurée\Official BomberMan\Bomber Man\BombermanProject\Debug\BombermanProject.exe
